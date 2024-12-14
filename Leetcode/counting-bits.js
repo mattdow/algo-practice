@@ -24,4 +24,6 @@ const countBits = function(n) {
   return result;
 };
 
+console.log(countBits(2)); // [0,1,1]
+
 
